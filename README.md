@@ -4,6 +4,6 @@ Developed a dynamic dashboard to track key vaccination metrics, including total 
 
 *Tools Utilized:*
 
-1. Power BI for interactive dashboard development
-2. DAX for advanced calculations
-3. Power Query for data cleansing and transformation
+1. *Power BI* for interactive dashboard development
+2. *DAX* for advanced calculations
+3. *Power Query* for data cleansing and transformation
